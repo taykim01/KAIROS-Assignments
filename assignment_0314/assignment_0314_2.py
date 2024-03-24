@@ -1,5 +1,5 @@
-from getAIResponse import getAIResponse
-from getListAIResponse import getListAIResponse
+from assignment_0321.getAIResponse import getAIResponse
+from assignment_0321.getListAIResponse import getListAIResponse
 
 # 도메인 개발 타임라인 가이드 봇
 

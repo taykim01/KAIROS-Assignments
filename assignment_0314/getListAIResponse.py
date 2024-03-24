@@ -1,4 +1,4 @@
-from initGPT import chat
+from assignment_0321.initGPT import chat
 
 def getListAIResponse(chatList): # 신규 메시지를 입력하면, 전체 메시지 리스트를 반환
 
